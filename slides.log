@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.6.6)  19 JUN 2021 21:30
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.6.6)  21 JUL 2021 18:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1185,11 +1185,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/pcr/b/n --> TU/pcr/b/n on input line 112.
 \c@lstlisting=\count392
 (./slides.nav)
-
-LaTeX Font Warning: Font shape `TU/SimSun(0)/b/n' undefined
-(Font)              using `TU/SimSun(0)/m/n' instead on input line 115.
-
-
 Overfull \vbox (37.70471pt too high) detected at line 115
  []
 
@@ -1220,7 +1215,7 @@ LaTeX Font Warning: Font shape `TU/SimSun(1)/m/it' undefined
 File: figures/dse.png Graphic file (type bmp)
 <figures/dse.png>
 
-Overfull \hbox (4.55153pt too wide) detected at line 154
+Overfull \hbox (4.55153pt too wide) detected at line 150
 [][][] [][][][][][][] [][] [][][][][][][] 
  []
 
@@ -1230,7 +1225,7 @@ Overfull \hbox (4.55153pt too wide) detected at line 154
 File: figures/dse.png Graphic file (type bmp)
 <figures/dse.png>
 
-Overfull \hbox (4.55153pt too wide) detected at line 154
+Overfull \hbox (4.55153pt too wide) detected at line 150
 [][][] [][][][][][][] [][] [][][][][][][] 
  []
 
@@ -1240,7 +1235,7 @@ Overfull \hbox (4.55153pt too wide) detected at line 154
 File: figures/dse.png Graphic file (type bmp)
 <figures/dse.png>
 
-Overfull \hbox (4.55153pt too wide) detected at line 154
+Overfull \hbox (4.55153pt too wide) detected at line 150
 [][][] [][][][][][][] [][] [][][][][][][] 
  []
 
@@ -1256,26 +1251,48 @@ Overfull \hbox (4.55153pt too wide) detected at line 154
 
 ] (./slides.toc) [13
 
-] [14
+]
+\openout4 = `slides.vrb'.
 
-] [15
+(./slides.vrb) [14
 
-] [16
-
-] (./slides.toc) [17
+] (./slides.toc) [15
 
 ]
-File: figures/code_struct.png Graphic file (type bmp)
-<figures/code_struct.png>
-[18
+\openout4 = `slides.vrb'.
 
-] (./slides.toc) [19
+(./slides.vrb) [16
+
+] (./slides.vrb) [17
+
+] (./slides.vrb) [18
+
+]
+\openout4 = `slides.vrb'.
+
+(./slides.vrb) [19
+
+] (./slides.toc) [20
+
+]
+\openout4 = `slides.vrb'.
+
+(./slides.vrb) [21
+
+]
+\openout4 = `slides.vrb'.
+
+(./slides.vrb) [22
+
+] [23
+
+] (./slides.toc) [24
 
 ]
 \openout4 = `slides.vrb'.
 
 (./slides.vrb
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 6.
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 3.
 No file TUpcr.fd.
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
@@ -1284,182 +1301,15 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 
 
 LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 6.
+(Font)              using `TU/lmr/m/n' instead on input line 3.
 
-) [20
+) [25
 
-] (./slides.toc) [21
+] [26
 
-]
-\openout4 = `slides.vrb'.
+] [27
 
-(./slides.vrb) [22
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb)
-Overfull \vbox (3.15591pt too high) detected at line 320
- []
-
-[23
-
-] (./slides.vrb)
-Overfull \vbox (15.74834pt too high) detected at line 320
- []
-
-[24
-
-] (./slides.vrb)
-Overfull \vbox (3.15591pt too high) detected at line 320
- []
-
-[25
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [26
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [27
-
-] (./slides.toc) [28
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb)
-Overfull \vbox (15.07826pt too high) detected at line 392
- []
-
-[29
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [30
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [31
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb)
-Overfull \vbox (21.45862pt too high) detected at line 497
- []
-
-[32
-
-] (./slides.toc) [33
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [34
-
-] [35
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb)
-Overfull \vbox (24.2782pt too high) detected at line 566
- []
-
-[36
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [37
-
-] [38
-
-] (./slides.toc) [39
-
-] [40
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb)
-Overfull \vbox (5.87833pt too high) detected at line 641
- []
-
-[41
-
-] [42
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [43
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [44
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [45
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb)
-Overfull \vbox (30.65855pt too high) detected at line 768
- []
-
-[46
-
-] (./slides.toc) [47
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [48
-
-]
-File: figures/STPSolverCallStack.png Graphic file (type bmp)
-<figures/STPSolverCallStack.png>
-[49
-
-] (./slides.toc) [50
-
-] [51
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [52
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [53
-
-] [54
-
-] (./slides.toc) [55
-
-]
-\openout4 = `slides.vrb'.
-
-(./slides.vrb) [56
-
-] [57
-
-] [58
-
-] [59
+] [28
 
 ]
 \tf@nav=\write7
@@ -1471,24 +1321,24 @@ File: figures/STPSolverCallStack.png Graphic file (type bmp)
 \tf@snm=\write9
 \openout9 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 951.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 951.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
 (./slides.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 951.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 951.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
 Package rerunfilecheck Info: File `slides.out' has not changed.
-(rerunfilecheck)             Checksum: A54A9033F1D73C6BB0CD239B8148B002;1117.
+(rerunfilecheck)             Checksum: D018C190C2F0F2CF4473EB4E6043AE7E;613.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33697 strings out of 479819
- 685151 string characters out of 5895847
- 1361276 words of memory out of 5000000
- 50012 multiletter control sequences out of 15000+600000
- 541141 words of font info for 101 fonts, out of 8000000 for 9000
+ 32414 strings out of 479819
+ 663782 string characters out of 5895847
+ 1176276 words of memory out of 5000000
+ 48786 multiletter control sequences out of 15000+600000
+ 539503 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,13n,97p,1805b,1593s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,13n,97p,1805b,1559s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on slides.pdf (59 pages).
+Output written on slides.pdf (28 pages).

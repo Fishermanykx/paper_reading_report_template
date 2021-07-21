@@ -1,7 +1,7 @@
-\frametitle{Command line options}
+\frametitle{framename}
 \begin{enumerate}
-    \item<0-> Compling to LLVM bitcode: \verb|clang -I ../../include -emit-llvm -c -g -O0 -Xclang -disable-O0-optnone pragram.c|
-    \item<0-> General usage of KLEE: \verb|klee [klee-options] <program.bc> [program-options]|
-    \item<0-> Set main search heuristics: \verb|klee --search=random-state --search=nurs:md2u program.o| % round-robin fashion
+    \item<0-> description1 \verb|inline code 1|
+    \item<0-> description2 \verb|inline code 2|
+    \item<0-> description3 \verb|inline code 3|
   \end{enumerate}
-  Other options can be seen at \href{https://klee.github.io/docs/options/}{https://klee.github.io/docs/options/}
+  \href{https://klee.github.io/docs/options/}{linkname}

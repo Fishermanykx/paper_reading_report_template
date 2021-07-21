@@ -18,7 +18,7 @@
 
 # Demo
 
-敬请参阅 `slides.pdf`.
+敬请参阅 `klee_report.pdf`.
 
 
 
